@@ -1,3 +1,3 @@
 # startup-systems
 
-Cornell Tech Startup System Homework
+Startup System Homework @Cornell Tech
